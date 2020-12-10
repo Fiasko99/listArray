@@ -1,0 +1,13 @@
+C:\Users\snake\OneDrive\Documents\GitHub\listArray\arrayList\arrayList\bin\Debug\netcoreapp3.1\arrayList.exe
+C:\Users\snake\OneDrive\Documents\GitHub\listArray\arrayList\arrayList\bin\Debug\netcoreapp3.1\arrayList.deps.json
+C:\Users\snake\OneDrive\Documents\GitHub\listArray\arrayList\arrayList\bin\Debug\netcoreapp3.1\arrayList.runtimeconfig.json
+C:\Users\snake\OneDrive\Documents\GitHub\listArray\arrayList\arrayList\bin\Debug\netcoreapp3.1\arrayList.runtimeconfig.dev.json
+C:\Users\snake\OneDrive\Documents\GitHub\listArray\arrayList\arrayList\bin\Debug\netcoreapp3.1\arrayList.dll
+C:\Users\snake\OneDrive\Documents\GitHub\listArray\arrayList\arrayList\bin\Debug\netcoreapp3.1\arrayList.pdb
+C:\Users\snake\OneDrive\Documents\GitHub\listArray\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.csprojAssemblyReference.cache
+C:\Users\snake\OneDrive\Documents\GitHub\listArray\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.AssemblyInfoInputs.cache
+C:\Users\snake\OneDrive\Documents\GitHub\listArray\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.AssemblyInfo.cs
+C:\Users\snake\OneDrive\Documents\GitHub\listArray\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.csproj.CoreCompileInputs.cache
+C:\Users\snake\OneDrive\Documents\GitHub\listArray\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.dll
+C:\Users\snake\OneDrive\Documents\GitHub\listArray\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.pdb
+C:\Users\snake\OneDrive\Documents\GitHub\listArray\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.genruntimeconfig.cache
